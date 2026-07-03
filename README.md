@@ -4,5 +4,5 @@ My name is Aylin Manafzade and I am 19 years old. I am an aspiring Data Analyst 
 
 
 ## My socials:
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/aylin-manafzade1/)
-- 📧 Send me an [Email](mailto:manafzadeaylin1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aylin-manafzade1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a2ylin/)
