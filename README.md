@@ -21,7 +21,7 @@ My name is Aylin Manafzade and I am 19 years old. I am an aspiring Data Analyst 
 
 ## Languages:
 ![Azerbaijani](https://img.shields.io/badge/Azerbaijani-Native-success?style=for-the-badge)
+![Russian](https://img.shields.io/badge/Russian-Native-success?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-C1-blue?style=for-the-badge)
-![Russian](https://img.shields.io/badge/Russian-C1-blue?style=for-the-badge)
 ![Japanese](https://img.shields.io/badge/Japanese-JLPT_N4-orange?style=for-the-badge)
-![Turkish](https://img.shields.io/badge/Turkish-B1-yellow?style=for-the-badge)
+![Turkish](https://img.shields.io/badge/Turkish-Intermediate_(B1)-yellow?style=for-the-badge)
