@@ -27,5 +27,6 @@ My name is Aylin Manafzade, and I am 19 years old. I am an aspiring Data Analyst
 ![Turkish](https://img.shields.io/badge/Turkish-Intermediate_(B1)-yellow?style=for-the-badge)
 
 
-![Profile Views](https://komarev.com)
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+
 
